@@ -1,0 +1,12 @@
+{
+  "name": "CallTimer",
+  "description": "Displays how long you've been in a voice call.",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "000000000000000000"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "index.js"
+}
